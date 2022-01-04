@@ -23,7 +23,7 @@ A powerful and beautiful quiz plugin for WordPress.
 	* Set Timelimit
 	* Preview-function & hints
 	* Leaderboard
-	* Statistics (not GDPR ready, but its coming')
+	* Statistics (not GDPR ready, but its coming)
 	* Quiz-summary at the end
 * Visuals
 	* Nice standard design
