@@ -65,7 +65,7 @@ A powerful and beautiful quiz plugin for WordPress.
 	* https://www.rechtswissenschaft-verstehen.de/uebungen/rechtswissenschaft-uebungsaufgaben-loesungen/rechtsgeschichte-uebungen/
 
 ## Support
-- English: http://wordpress.org/support/plugin/wp-pro-quiz
+- English: Your issues are my duty => https://github.com/markusbegerow/Wp-Adv-Quiz/issues
 - German/Deutsch: ...
 
 ## Installation
