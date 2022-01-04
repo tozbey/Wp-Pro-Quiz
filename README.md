@@ -5,37 +5,29 @@ A powerful and beautiful quiz plugin for WordPress.
 ![WordPress Plugin Version](https://img.shields.io/wordpress/plugin/v/wp-pro-quiz) ![WordPress Plugin Downloads](https://img.shields.io/wordpress/plugin/dm/wp-pro-quiz) ![WordPress Plugin Active Installs](https://img.shields.io/wordpress/plugin/installs/wp-pro-quiz) ![WordPress Plugin: Tested WP Version](https://img.shields.io/wordpress/plugin/tested/wp-pro-quiz) ![WordPress Plugin: Required WP Version](https://img.shields.io/wordpress/plugin/wp-version/wp-pro-quiz)
 
 ## Functions
-- Single Choice
-- Multiple Choice
-- "Sorting" Choice
-- "Free" Choice
-- "Matrix Sorting" Choice
-- Cloze function
-- Assessment
-- Timelimit
-- Random Answer
-- Random Question
-- HTML in questions and answers is allowed
-- Multimedia in questions
-- Back-Button
-- Correct / incorrect response message for all questions
-- Different valency for every question
-- Different points for each answer
-- Result text with gradations
-- Preview-function
-- Statistics
-- Leaderboard
-- Quiz requirements
-- Hints
-- Custom fields
-- Import / Export function
-- E-mail notification
-- Category support
-- Quiz-summary
-- Many configuration options
-- Really nice standard design
-- Mighty
-- Fully compatible with cache plugins (e.g. WP-Super-Cache or W3 Total Cache)
+* General
+	* PHP 8.0 Support (this is really new)
+	* Import / Export function
+	* HTML Support
+	* Multimedia Support (Videos & Audio files)
+	* Fully compatible with cache plugins (e.g. WP-Super-Cache, W3 Total Cache, Autoptimize and Cachify)
+* Different Choices 
+  * Single Choice
+  * Multiple Choice
+  * "Sorting" Choice
+  * "Free" Choice
+  * "Matrix Sorting" Choice
+* Options
+	* Category support
+	* Random Questions & Answers scenarios
+	* Set Timelimit
+	* Preview-function & hints
+	* Leaderboard
+	* Statistics (not GDPR ready, but its coming')
+	* Quiz-summary at the end
+* Visuals
+	* Nice standard design
+	* Correct / incorrect response message for all questions
 
 
 ## Translations
