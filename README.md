@@ -10,6 +10,7 @@ A powerful and beautiful quiz plugin for WordPress.
 	* Import / Export function
 	* HTML Support
 	* Multimedia Support (Videos & Audio files)
+	* Support for "User Role Editor" etc.
 	* Fully compatible with cache plugins (e.g. WP-Super-Cache, W3 Total Cache, Autoptimize and Cachify)
 * Different Choices 
   * Single Choice
@@ -57,16 +58,13 @@ A powerful and beautiful quiz plugin for WordPress.
 - Turkish / Türkçe (Thanks Nsaral)
 - Vietnamese / Tiếng Việt (Thanks vy2014)
 
-## Live Demo
-http://www.it-gecko.de/wp-pro-quiz-quiz-plugin-fuer-wordpress.html (scroll to "Demo")
-
-## Special
-- Support for "User Role Editor" etc.
-- Support for BuddyPress achievements 3.x.x
+## Live Demos
+German site about computer science: https://www.informatik-verstehen.de/uebungen/informatik-uebungsaufgaben-loesungen/
+German site about German law https://www.rechtswissenschaft-verstehen.de/uebungen/rechtswissenschaft-uebungsaufgaben-loesungen/rechtsgeschichte-uebungen/
 
 ## Support
 - English: http://wordpress.org/support/plugin/wp-pro-quiz
-- German/Deutsch: http://www.it-gecko.de/kontakt
+- German/Deutsch: ...
 
 ## Installation
 
