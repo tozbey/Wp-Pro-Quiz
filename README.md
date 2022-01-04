@@ -13,11 +13,11 @@ A powerful and beautiful quiz plugin for WordPress.
 	* Support for "User Role Editor" etc.
 	* Fully compatible with cache plugins (e.g. WP-Super-Cache, W3 Total Cache, Autoptimize and Cachify)
 * Different Choices 
-  * Single Choice
-  * Multiple Choice
-  * "Sorting" Choice
-  * "Free" Choice
-  * "Matrix Sorting" Choice
+  	* Single Choice
+  	* Multiple Choice
+  	* "Sorting" Choice
+  	* "Free" Choice
+  	* "Matrix Sorting" Choice
 * Options
 	* Category support
 	* Random Questions & Answers scenarios
@@ -59,8 +59,10 @@ A powerful and beautiful quiz plugin for WordPress.
 - Vietnamese / Tiếng Việt (Thanks vy2014)
 
 ## Live Demos
-German site about computer science: https://www.informatik-verstehen.de/uebungen/informatik-uebungsaufgaben-loesungen/
-German site about German law https://www.rechtswissenschaft-verstehen.de/uebungen/rechtswissenschaft-uebungsaufgaben-loesungen/rechtsgeschichte-uebungen/
+* German site about computer science: 
+ 	* https://www.informatik-verstehen.de/uebungen/informatik-uebungsaufgaben-loesungen/
+* German site about German law 
+	* https://www.rechtswissenschaft-verstehen.de/uebungen/rechtswissenschaft-uebungsaufgaben-loesungen/rechtsgeschichte-uebungen/
 
 ## Support
 - English: http://wordpress.org/support/plugin/wp-pro-quiz
