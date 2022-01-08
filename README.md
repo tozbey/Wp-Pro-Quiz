@@ -1,6 +1,6 @@
 # Wp-Pro-Quiz
 
-New Version - WordPress 5.9 and PHP 8.0 - https://github.com/markusbegerow/Wp-Adv-Quiz  
+New Version - WordPress 5.9 and PHP 8.0 supported - https://github.com/markusbegerow/Wp-Adv-Quiz  
 
 A powerful and beautiful quiz plugin for WordPress.
 
@@ -8,7 +8,6 @@ A powerful and beautiful quiz plugin for WordPress.
 
 ## Functions
 * General
-	* PHP 8.0 Support (this is really new)
 	* Import / Export function
 	* HTML Support
 	* Multimedia Support (Videos & Audio files)
