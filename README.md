@@ -1,5 +1,7 @@
 # Wp-Pro-Quiz
 
+New Version - WordPress 5.9 and PHP 8.0 - https://github.com/markusbegerow/Wp-Adv-Quiz  
+
 A powerful and beautiful quiz plugin for WordPress.
 
 ![WordPress Plugin Version](https://img.shields.io/wordpress/plugin/v/wp-pro-quiz) ![WordPress Plugin Downloads](https://img.shields.io/wordpress/plugin/dm/wp-pro-quiz) ![WordPress Plugin Active Installs](https://img.shields.io/wordpress/plugin/installs/wp-pro-quiz) ![WordPress Plugin: Tested WP Version](https://img.shields.io/wordpress/plugin/tested/wp-pro-quiz) ![WordPress Plugin: Required WP Version](https://img.shields.io/wordpress/plugin/wp-version/wp-pro-quiz)
